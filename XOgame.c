@@ -99,12 +99,12 @@ int player = 1, i, choice;
     else{
         printf("==>\aGame over ");
 	}
- printf("press any key to play again ");
     getch();
 
 	
 }
 int CHECK_WIN(){
+	
 	
 	/*return 1 if Gameover with result*/
 	/*return 0 if Gameover without result*/
